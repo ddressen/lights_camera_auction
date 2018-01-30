@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Lights, Camera, Auction!",
+  "description": "This extension allows the user automatically pull the item ID off ebay auctions and send it to the LCA analysis site.",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
+
