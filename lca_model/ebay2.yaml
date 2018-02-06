@@ -1,0 +1,30 @@
+name: ebay_api_config
+
+# Trading API Sandbox - https://www.x.com/developers/ebay/products/trading-api
+api.sandbox.ebay.com:
+    compatability: 719
+    appid: ENTER_YOUR_APPID_HERE
+    certid: ENTER_YOUR_CERTID_HERE
+    devid: ENTER_YOUR_DEVID_HERE
+    token: ENTER_YOUR_TOKEN_HERE
+
+# Trading API - https://www.x.com/developers/ebay/products/trading-api
+api.ebay.com:
+    compatability: 719
+    appid: DonaldDr-DSprojec-PRD-1132041a0-b2cdf3b9		
+    certid: PRD-132041a01980-6d4f-4fb1-9477-9d56	
+    devid: 26edaef5-c3ca-4ba5-9569-eabd907313ef
+    token: AgAAAA**AQAAAA**aAAAAA**mBthWg**nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6wNmYejDZmFoA+dj6x9nY+seQ**YhsEAA**AAMAAA**rr6ryyLuaWy6RKYvrMRoQhMmBpPPntA+aDEJu/5heXoSBm25VmoCBVgY1qBcn31Q8KlLH2JNRWU/iAwsGzsT2jM9I/GmC79RSdZbzVGd7jaVFMJOkCUVMct29WRbZifcD3eElxY18Sba5XpIni8YbR6yQUpx8CkgGLXnl06SZ6+ZmtFO2Wa3mE3SGHd3KWPZkWitSAH0Dx+W8I+0RjoRc6f53a8efdgc49r3/RAE85DLYASdU2cStax+5Ii/8lWUM9LOUGYj7Rbx4z7XLdNeZ0RLKNvafQiotCCWgl/slx7m0ncUZgYhNYSsUemthwfJ5ZNPo27WXX/CWamOA6amZJluAX3EK3jyJERsumGVnhy7wL+8rJxPxjPsxNjZ+Xve0XgPuJy5XVYsAka6BqJSep33DSN1WXoVikY6tQxt/25a+wC0+1JMZzW5QodhGVnevf8Ek7N/BQ689swxeSByiHBaW+U2Y67JC1MkK4Ys2q/z+QW+2mjUjjj5ghRkmjiPFb7C/8MbY4tBN1YPdVrD1HmxFNlnty1C9QG1Ci/JVxLLDlcxaEMQGCRP386DGGQOX1NZTR3u3LJQ2Pk7ENt3/X+oSvh6My81o9JC5cFekMlvcu0HjxrPlKxwDiCl8KmJIsPmX0W4tzZnUKC8fqigsjKxv2ZrZ9ZU8VIGD7/mXToprnjN8+RxiS8iT0izuZS2MMgQ+80VVU0FduAZZy22cEWFxJtWMBzza93ElWWQEgp3iUji9Fd132ouddxf1nWb
+
+
+# Finding API - https://www.x.com/developers/ebay/products/finding-api
+svcs.ebay.com:
+    appid: DonaldDr-DSprojec-PRD-1132041a0-b2cdf3b9		
+    version: 1.0.0
+
+# Shopping API - https://www.x.com/developers/ebay/products/shopping-api
+open.api.ebay.com:
+    appid: DonaldDr-DSprojec-PRD-1132041a0-b2cdf3b9		
+    version: 671
+    
+# Account: donald.dressen@protonmail.ch
